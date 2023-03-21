@@ -1,7 +1,7 @@
 # Data
 ## Parameters
 
-* ```parameters.R``` All parameter combinations used in the 864.000 simulations.
+* ```parameters.R``` Parameter values or seed values used to generate parameter values for all parameter combinations used in the 864.000 simulations.
 
 ## Simulation results
 
