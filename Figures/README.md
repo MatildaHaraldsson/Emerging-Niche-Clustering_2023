@@ -1,7 +1,7 @@
 # Figures
 
 ## Figure Code
-Codes to reproduce figures 1-4 in the main text of Haraldsson and Thébault 2023. The codes demands the data objects stored in ```Figure data```, as well as the ```Library_Emerging_niche_clustering.R``` script stored in the ```Code``` folder, and the output stored in the ```Data``` folder.
+Codes to reproduce figures 1-4 in the main text of Haraldsson and Thébault 2023. The codes demands the data objects below, as well as the ```Library_Emerging_niche_clustering.R``` script stored in the ```Code/``` folder, and the output stored in the ```Data/``` folder.
 
 - ```Figure_1.R```: reproduces figure 1
 - ```Figure_2_3.R```: reproduces figure 2 and 3
