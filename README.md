@@ -18,5 +18,5 @@ Understanding species coexistence has been a central question in ecology for dec
 ## Contents
 * ```Data/``` contains the file with all combination of parameter values simulated with the ODE model, and the files containing the simulation results.
 * ```Code/``` contains the functions and main script to run the analysis.
-* ```Figures/``` contains the scrips to generate the figures from the files containing the simulation results in Data/.
+* ```Figures/``` contains the code and data to generate the figures in the main text. Also demands data and code from ```Data/``` and ```Code/```.
 
